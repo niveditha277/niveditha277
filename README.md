@@ -95,7 +95,6 @@ Hi there, I'm Niveditha Arlagadda! 👋
 
 ## 🤝 Connect with Me  
 👉 [LinkedIn](https://www.linkedin.com/in/niveditha-arlagadda-273029278/)  
-👉 [GitHub](https://github.com/niveditha277)  
 
 ---
 
