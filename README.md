@@ -91,10 +91,6 @@ Hi there, I'm Niveditha Arlagadda! 👋
 🚀 **Image Forensics** *(Jupyter Notebook)*  
 🔹 Implemented image processing techniques to detect image manipulations and forgeries.  
 
----
-
-## 🤝 Connect with Me  
-👉 [LinkedIn](https://www.linkedin.com/in/niveditha-arlagadda-273029278/)  
 
 ---
 
